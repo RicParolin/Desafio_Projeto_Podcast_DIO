@@ -1,0 +1,54 @@
+você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em front end eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end feito por nerds e que tenha algum trocadilho de nome nerd
+
+o podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado em 2025
+
+regras :
+
+o nome deve ser enxuto (um nome e um subtítulo)
+
+o nome tenha algum trocadilho nerd com nomes de franquias conhecidas como dragon ball, cavaleiros do zodíaco
+
+o nome deve conter alguma palavra forte que remeta a front end
+
+regras negativas :
+
+não quero que o nome contenha palavras em ingês
+
+não quero que utilize nenhuma dessas palavras (javascript, programador)
+
+🟢 Prompt 2: Pedido de imagem
+beleza irmão, curti CSSeya! esse!!! agora cria pra mim opções de imagem pra esse podcast tendo como principais referencias o nome e cavaleiros do zodiaco e um pdcaster com barba
+
+🟢 Prompt 3: Pedido de roteiro
+você é um roteirista de podcast e vamos criar um roteiro de podcast de tecnologia focado em front end cujo nome é "CSSeya! A constelação do código visual " com público alvo de iniciantes em front end, o formato do roteiro deve ser :
+
+[INTRODUÇÃO]
+[CURIOSIDADE1]
+[CURIOSIDADE2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+No bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+
+No bloco [CURIOSIDADE1] substitua por uma curiosidade de CSS
+
+No bloco [CURIOSIDADE2] sobre uma ferramenta para front ends
+
+No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o ricParolin e esse foi o CSseya dessa semana'
+
+Use termos de fácil explicação
+
+O podcast vai ser apresentado somente por uma pessoa, chamada ricParolin
+
+O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+Não use muitos termos técnicos
+
+Não ultrapasse 5 minutos de duração
+
+🟢 Prompt 4: Ajuste na curiosidade
+troque somente a CURIOSIDADE1 para algo que não tenha códigos pra ficar mais fácil a narração
+

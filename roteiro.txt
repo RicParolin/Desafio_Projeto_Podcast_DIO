@@ -1,0 +1,23 @@
+🎙️ [INTRODUÇÃO]
+Fala, galera! Vocês sabiam que o CSS não é só o que dá corzinha no site? Pois é! Ele é tipo o Cosmo dos Cavaleiros do Zodíaco: invisível, mas poderoso. Tá começando mais um episódio do CSSeya! A Constelação do Código Visual, onde a gente destrincha o front-end com o poder do CSS elevado ao sétimo sentido! Aqui quem fala é o ricParolin, seu cavaleiro de armadura fluida, e hoje você vai aprender uma curiosidade rápida que pode te salvar na hora de estilizar seu layout!
+
+✨ [CURIOSIDADE1] — Truque CSS de Cavaleiro de Ouro
+Você já ouviu falar no seletor :not()? Ele é tipo o Shun: parece fraco, mas é mega útil! O :not() serve pra você aplicar estilos em todos os elementos menos em um. Por exemplo:
+
+css
+Copiar
+Editar
+button:not(.secundario) {
+  background: dourado;
+}
+Isso significa que todos os botões vão brilhar em dourado… menos aquele botão com a classe .secundario. Simples e poderoso — igual um golpe de Meteoro de Pégaso no CSS.
+
+⚔️ [CURIOSIDADE2] — Ferramenta Mítica: Figma
+Sabe quando o Hyoga olhava a armadura de Cisne no gelo e já imaginava tudo certinho antes da luta? Então, o Figma é mais ou menos isso. Ele é uma ferramenta de design onde você pode ver e montar o layout do seu site antes de codar.
+
+E o mais legal: você não precisa instalar nada, só entrar no navegador e começar a desenhar suas telas. É tipo planejar sua constelação antes de colocar a armadura.
+
+🌌 [FINALIZAÇÃO]
+E aí, curtiu esse golpe secreto do CSS? Já começa a testar isso no seu projeto, porque quem domina os seletores domina o Cosmo do código visual. Compartilha com aquele amigo que ainda tá se batendo com os estilos, e segue o CSSeya pra continuar subindo de nível no front-end!
+
+Eu sou o ricParolin e esse foi o CSSeya dessa semana!
